@@ -1,3 +1,12 @@
 Git repository for devops devlopment
-This can be added with more tools and programs over the time
-Happy learning!! as its part of my life
+
+1.git config --global user.name "xxxname"
+2.git config --global user.email "xxx@xmail.com"
+3.git config --global user.email xxxxx@xmail.com
+4.git clone https://github.com/username/xxxx.git
+5.cd dir
+6.git add Test.txt
+7.git status
+8.git commit -m "my first commit" Test.txt
+9.git push -u origin master
+10.git status
